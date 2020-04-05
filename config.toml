@@ -1,0 +1,11 @@
+baseURL = "https://friendsofdt.org/"
+languageCode = "en-us"
+title = "Friends of DramaTech"
+theme = "fodt"
+
+[params]
+splash = "Now Casting"
+tagline = "We're working to build a better alumni assosciation for the theater"
+
+[markup.goldmark.renderer]
+unsafe = true

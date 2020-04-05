@@ -1,0 +1,10 @@
+<meta charset="utf-8">
+
+<title>{{ block "title" . }}{{ .Site.Title }} {{ with .Params.Title }} : {{ . }}{{ end }}{{ end }}</title>
+
+{{ hugo.Generator }}
+<meta name="viewport" content="width=device-width,minimum-scale=1">
+
+<link rel="stylesheet" content-type="text/css" href="https://unpkg.com/purecss@1.0.1/build/pure-min.css">
+{{ $style := resources.Get "scss/main.scss" | resources.ToCSS (dict "outputStyle" "compressed") | resources.Fingerprint }}
+<link rel="stylesheet" content-type="text/css" href="{{ $style.Permalink }}">

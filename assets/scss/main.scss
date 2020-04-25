@@ -176,7 +176,6 @@ body {
   color: white;
 }
 
-/* This is the class used for the footer */
 .footer {
   background: black;
   position: fixed;
@@ -192,9 +191,9 @@ body {
 }
 
 /* Link colors */
-.content a         { color: #66f; }
-.content a:active  { color: #f66; }
-.content a:visited { color: #a6f; }
+footer a,         .content a         { color: #66f; }
+footer a:active,  .content a:active  { color: #f66; }
+footer a:visited, .content a:visited { color: #a6f; }
 
 /*
  * -- TABLET (AND UP) MEDIA QUERIES --

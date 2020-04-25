@@ -13,17 +13,8 @@ $gray: #adadad;
 body {
   line-height: 1.7em;
   color: white;
-  background-color: black;
+  background-color: #111;
   font-size: 13px;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6,
-label {
 }
 
 .pure-img-responsive {
@@ -48,17 +39,15 @@ label {
   text-align: center;
 }
 
-/* -- MENU STYLES --
- * I want to customize how my .pure-menu looks at the top of the page
- */
+/* -- MENU STYLES -- */
 
 .home-menu {
   padding: 0.5em;
   text-align: center;
   box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+  background-color: rgba(0, 0, 0, 0.8);
 }
-.home-menu {
-}
+
 .pure-menu.pure-menu-fixed {
   /* Fixed menus normally have a border at the bottom. */
   border-bottom: none;
@@ -81,14 +70,13 @@ label {
 }
 .home-menu li a:hover,
 .home-menu li a:focus {
-  background: none;
+  background-color: rgba(32, 32, 32, 0.8);
   border: none;
   color: inherit;
 }
 
 /*
  * -- SPLASH STYLES --
- * This is the blue top section that appears on the page.
  */
 
 .splash-container {
@@ -96,10 +84,14 @@ label {
   overflow: hidden;
   /* The following styles are required for the "scroll-over" effect */
   width: 100%;
-  height: auto;
+  height: 70vh;
   top: 0;
   left: 0;
   position: fixed !important;
+}
+
+.splash-container.content-page {
+  height: 40vh;
 }
 
 .splash {
@@ -144,8 +136,13 @@ label {
   width: 100%;
   min-height: 12%;
   z-index: 2;
-  background: black;
+  background: #111;
   color: #ddd;
+}
+
+.content-wrapper.content-page {
+  top: 40vh;
+  padding-top: 3em;
 }
 
 /* We want to give the content area some more padding */
@@ -187,6 +184,18 @@ label {
   width: 100%;
 }
 
+.content code {
+  padding: 0.25em 0.5em;
+  background-color: #333;
+  border: 1px solid #333;
+  border-radius: 5px;
+}
+
+/* Link colors */
+.content a         { color: #66f; }
+.content a:active  { color: #f66; }
+.content a:visited { color: #a6f; }
+
 /*
  * -- TABLET (AND UP) MEDIA QUERIES --
  * On tablets and other medium-sized devices, we want to customize some
@@ -207,16 +216,15 @@ label {
     float: right;
   }
 
-  /* We increase the height of the splash-container */
-  /*    .splash-container {
-        height: 500px;
-    }*/
-
   /* We decrease the width of the .splash, since we have more width
     to work with */
   .splash {
     width: 50%;
     height: 50%;
+  }
+
+  .splash-container {
+    height: 75vh;
   }
 
   .splash-head {
@@ -239,12 +247,17 @@ label {
  * of the mobile and tablet styles.
  */
 @media (min-width: 78em) {
+  .splash-container {
+    height: 90vh;
+  }
+
   /* We increase the header font size even more */
   .splash-head {
     font-size: 300%;
   }
 
-    .content-wrapper {
-    top: 90%;
+  .content-wrapper {
+    top: 80%;
+    padding: 0 10em;
   }
 }

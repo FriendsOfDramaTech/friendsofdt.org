@@ -6,16 +6,15 @@
   />
   <div class="splash">
     <h1 class="splash-head">{{ .Site.Params.splash }}</h1>
-    <p class="splash-subhead" />
-    {{ .Site.Params.tagline }}
+    <p class="splash-subhead">
+      {{ .Site.Params.tagline }}
+    </p>
   </div>
 </header>
 
-<pre><code>
-{{ . }}
-</code></pre>
-
 <article class="content-wrapper">
+  <section class="content l-box">
 {{ .Content }}
+  </section>
 </article>
 {{ end }}

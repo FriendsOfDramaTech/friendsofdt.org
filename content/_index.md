@@ -1,68 +1,21 @@
 ---
 title: "Home"
-date: "2020-04-04"
-draft: true
+date: "2020-04-01"
 ---
 
-<section class="content l-box">
-  <h2 class="content-head is-center"><ref name="about">ABOUT</ref></h2>
-  <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras rhoncus
-    mauris eu massa iaculis, eu egestas purus sollicitudin. Praesent faucibus
-    purus vel ligula facilisis semper. Aenean interdum orci in dapibus
-    lobortis. Ut vitae arcu tincidunt mauris eleifend tempor. Pellentesque
-    consequat sollicitudin tempor. Nam orci felis, sagittis vel arcu sed,
-    vestibulum eleifend nulla. Sed sem eros, cursus semper posuere ut,
-    eleifend a ipsum. Nullam non eleifend purus. Duis dictum aliquet tortor
-    sed consequat. Nullam mauris nibh, rhoncus non ante a, porttitor fringilla
-    purus. Cras sollicitudin ut justo quis mollis. Aenean sit amet ante nulla.
-    Suspendisse potenti.
-  </p>
-</section>
-<section class="content pure-g">
-  <section class="pure-u-1-2 l-box">
-    <h2 class="content-head is-center">NEWS</h2>
-    <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras rhoncus
-      mauris eu massa iaculis, eu egestas purus sollicitudin. Praesent faucibus
-      purus vel ligula facilisis semper. Aenean interdum orci in dapibus
-      lobortis. Ut vitae arcu tincidunt mauris eleifend tempor. Pellentesque
-      consequat sollicitudin tempor. Nam orci felis, sagittis vel arcu sed,
-      vestibulum eleifend nulla. Sed sem eros, cursus semper posuere ut,
-      eleifend a ipsum. Nullam non eleifend purus. Duis dictum aliquet tortor
-      sed consequat. Nullam mauris nibh, rhoncus non ante a, porttitor fringilla
-      purus. Cras sollicitudin ut justo quis mollis. Aenean sit amet ante nulla.
-      Suspendisse potenti.
-    </p>
-  </section>
-  <section class="pure-u-1-2 l-box">
-    <h2 class="content-head is-center">CONTACT</h2>
-    <p>
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras rhoncus
-      mauris eu massa iaculis, eu egestas purus sollicitudin. Praesent faucibus
-      purus vel ligula facilisis semper. Aenean interdum orci in dapibus
-      lobortis. Ut vitae arcu tincidunt mauris eleifend tempor. Pellentesque
-      consequat sollicitudin tempor. Nam orci felis, sagittis vel arcu sed,
-      vestibulum eleifend nulla. Sed sem eros, cursus semper posuere ut,
-      eleifend a ipsum. Nullam non eleifend purus. Duis dictum aliquet tortor
-      sed consequat. Nullam mauris nibh, rhoncus non ante a, porttitor fringilla
-      purus. Cras sollicitudin ut justo quis mollis. Aenean sit amet ante nulla.
-      Suspendisse potenti.
-    </p>
-  </section>
-</section>
-<section class="content l-box">
-  <h2 class="content-head is-center"><ref name="about">JOIN</ref></h2>
-  <p>
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras rhoncus
-    mauris eu massa iaculis, eu egestas purus sollicitudin. Praesent faucibus
-    purus vel ligula facilisis semper. Aenean interdum orci in dapibus
-    lobortis. Ut vitae arcu tincidunt mauris eleifend tempor. Pellentesque
-    consequat sollicitudin tempor. Nam orci felis, sagittis vel arcu sed,
-    vestibulum eleifend nulla. Sed sem eros, cursus semper posuere ut,
-    eleifend a ipsum. Nullam non eleifend purus. Duis dictum aliquet tortor
-    sed consequat. Nullam mauris nibh, rhoncus non ante a, porttitor fringilla
-    purus. Cras sollicitudin ut justo quis mollis. Aenean sit amet ante nulla.
-    Suspendisse potenti.
-  </p>
-</section>
+## About FoDT
+
+Friends of DramaTech is the alumni association for DramaTech Theater. Our goal is to support the student members financially, professionally, and socially so that they can further the theater's mission.
+
+
+## Join!
+
+Membership is open to anyone who has ever been a part of DramaTech or who supports the mission of DramaTech. [Click here][join] to join.
+
+For any questions, ideas, or other correspondence, we invite you to reach out to [the FoDT board](mailto:board@friendsofdt.org).
+
+[join]: https://bit.ly/fodtmc
+
+## Contribute
+
+{{< page_content "/donate" >}}

@@ -1,23 +1,15 @@
 {{ define "main" }}
-<header class="splash-container">
+<header class="splash-container content-page">
   <img src="https://images.unsplash.com/photo-1508778552286-12d4c6007799?ixlib=rb-1.2.1&q=85&fm=jpg&crop=entropy&cs=srgb&ixid=eyJhcHBfaWQiOjE0NTg5fQ"
     alt="An image of a theatrical curtain"
     style="max-width:100%; height:auto;"
   />
   <div class="splash">
     <h1 class="splash-head">{{ .Title }}</h1>
-    <p class="splash-subhead" />
-    {{ .Site.Params.tagline }}
   </div>
 </header>
-
-<pre><code>
-{{ . }}
-</code></pre>
-
-<article class="content-wrapper">
+<article class="content-wrapper content-page">
   <section class="content l-box">
-    <h2 class="content-head is-center">{{ .Title }}</ref></h2>
     {{ .Content }}
   </section>
 </article>

@@ -9,3 +9,15 @@ tagline = "We're working to support the greater DramaTech community"
 
 [markup.goldmark.renderer]
 unsafe = true
+
+[deployment]
+
+[[deployment.targets]]
+name = "staging"
+URL = "s3://www-staging.cloud.friendsofdt.org?region=us-east-1"
+cloudFrontDistributionID = "E27T7JINAX9IGN"
+
+[[deployment.targets]]
+name = "production"
+URL = "s3://www.cloud.friendsofdt.org?region=us-east-1"
+cloudFrontDistributionID = "E3VPAL124UCEMW"

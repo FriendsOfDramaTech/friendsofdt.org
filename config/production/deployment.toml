@@ -1,0 +1,4 @@
+[[targets]]
+name = "aws"
+URL = "s3://www.cloud.friendsofdt.org?region=us-east-1"
+cloudFrontDistributionID = "E3VPAL124UCEMW"

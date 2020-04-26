@@ -8,3 +8,7 @@
 <link rel="stylesheet" content-type="text/css" href="https://unpkg.com/purecss@1.0.1/build/pure-min.css">
 {{ $style := resources.Get "scss/main.scss" | resources.ToCSS (dict "outputStyle" "compressed") | resources.Fingerprint }}
 <link rel="stylesheet" content-type="text/css" href="{{ $style.Permalink }}">
+
+<script type="text/javascript" src="https://unpkg.com/jquery@3.5.0/dist/jquery.min.js" integrity="sha384-LVoNJ6yst/aLxKvxwp6s2GAabqPczfWh6xzm38S/YtjUyZ+3aTKOnD/OJVGYLZDl" crossorigin="anonymous"></script>
+{{ $js := resources.Get "js/main.js" | resources.Minify | resources.Fingerprint }}
+<script type="text/javascript" src="{{ $js.Permalink }}" integrity="{{ $js.Data.Integrity }}"></script>

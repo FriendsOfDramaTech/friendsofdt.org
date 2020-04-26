@@ -20,6 +20,6 @@ Donations can be made on-line via the <a href="https://development.gatech.edu" t
 4. In the **If other please specify** box, enter `Gay Dull DramaTech Scholarship 997-00-0150`.
 5. Once you receive a confirmation email from Georgia Tech, please complete [this form][progress-form] so that we can keep track of our progress.
 
-If you run into any problems or have any questions about this process, please reach out to [the treasurer](mailto:treasurer@friendsofdt.org).
+If you run into any problems or have any questions about this process, please reach out to [the treasurer](#contact:treasurer).
 
 [progress-form]: https://docs.google.com/forms/d/e/1FAIpQLScr0mvyx5jr2oh5-p_vj0SMK_27lu_ckTsIrOooyd2TiHghZg/viewform

@@ -12,7 +12,7 @@ Friends of DramaTech is the alumni association for DramaTech Theater. Our goal i
 
 Membership is open to anyone who has ever been a part of DramaTech or who supports the mission of DramaTech. [Click here][join] to join.
 
-For any questions, ideas, or other correspondence, we invite you to reach out to [the FoDT board](mailto:board@friendsofdt.org).
+For any questions, ideas, or other correspondence, we invite you to reach out to [the FoDT board](#contact:board).
 
 [join]: https://bit.ly/fodtmc
 

@@ -1,0 +1,16 @@
+<meta charset="utf-8">
+
+<title>{{ block "title" . }}{{ .Site.Title }} {{ with .Params.Title }} : {{ . }}{{ end }}{{ end }}</title>
+
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="manifest" href="site.webmanifest">
+<link rel="apple-touch-icon" href="icon.png">
+<meta name="theme-color" content="#fafafa">
+
+{{ hugo.Generator }}
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css">
+<link rel="stylesheet" href="https://unpkg.com/purecss@2.0.3/build/pure-min.css" integrity="sha384-4ZPLezkTZTsojWFhpdFembdzFudphhoOzIunR1wH6g1WQDzCAiPvDyitaK67mp0+" crossorigin="anonymous">
+{{ $style := resources.Get "scss/lilac/theme.scss" | resources.ToCSS (dict "outputStyle" "compressed") | resources.Fingerprint "sha512" }}
+<link rel="stylesheet" content-type="text/css" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">

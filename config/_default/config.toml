@@ -1,7 +1,7 @@
 baseURL = "https://friendsofdt.org/"
 languageCode = "en-us"
 title = "Friends of DramaTech"
-theme = "fodt"
+theme = "lilac-revenge"
 
 [params]
 splash = "Now Casting"

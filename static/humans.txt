@@ -1,0 +1,22 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Michael Lee -- Bucket Filler
+    David Holls -- Pixel Polisher
+    Thomas Copeland -- Bike Shed Painter
+    Graham "Periaktoi" Sweeney -- Executive Producer and "Designer"
+    Morgan Milton -- Graphics Wench
+
+# THANKS
+
+    Joseph Daigle: For keeping the lights on all these years
+    Tony Villa: For IMDT
+    Jon Olson and Brad Wells: For teaching us the value of purple (and for logos repurposed on this site)
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
+    Amazon Web Services

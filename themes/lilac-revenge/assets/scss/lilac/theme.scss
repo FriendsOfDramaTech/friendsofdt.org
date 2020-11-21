@@ -18,7 +18,7 @@ $old-gold: #CFB53B;
 $black: #000000;
 
 // Misc Variables
-$nav-size-medium: 560px;
+$nav-size-medium: 760px;
 $nav-size-large: 860px;
 
 
@@ -454,7 +454,7 @@ footer {
     height : 80px;
   }
 
-   .menu-toggle-btn{
+  .menu-toggle-btn{
     display: none !important;
   }
 
@@ -473,7 +473,8 @@ footer {
   .navigation-menu a{
     margin-left: 10px;
     display: inline;
-    color: $navy;
+    color: $ghost-white;
+    background: $lilac;
   }
 
   .navigation-menu a:hover{
@@ -501,34 +502,6 @@ footer {
   #logo {
     width : 417px;
     height : 100px;
-  }
-
-   .menu-toggle-btn{
-    display: none !important;
-  }
-
-  .navigation-menu{
-    all: unset;
-    float: right;
-    display: flex;
-    align-items: flex-end;
-    height: 100%;
-  }
-
-  .navigation-menu::before{
-    display: none;
-  }
-
-  .navigation-menu a{
-    margin-left: 10px;
-    display: inline;
-    color: $navy;
-  }
-
-  .navigation-menu a:hover{
-    background: $lilac;
-    color: $ghost-white;
-    transform: scale(1.1);
   }
 }
 

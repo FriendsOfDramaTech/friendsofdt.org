@@ -8,4 +8,4 @@ date: "2020-04-01"
 Friends of DramaTech is the alumni association for DramaTech Theater. Our goal is to support the student members financially, professionally, and socially so that they can further the theater's mission.
 
 ## Latest Updates
-Here's some updates or somethng
+{{< news_articles >}}

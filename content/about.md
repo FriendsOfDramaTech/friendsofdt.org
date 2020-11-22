@@ -1,6 +1,7 @@
 ---
 title: "About FoDT"
 date: "2020-11-17"
+menu: ["main", "footer"]
 ---
 
 Some content goes here!

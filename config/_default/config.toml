@@ -2,6 +2,7 @@ baseURL = "https://friendsofdt.org/"
 languageCode = "en-us"
 title = "Friends of DramaTech"
 theme = "lilac-revenge"
+enableRobotsTXT = true
 
 [params]
 

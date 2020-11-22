@@ -21,13 +21,10 @@ $black: #000000;
 $nav-size-medium: 760px;
 $nav-size-large: 860px;
 
-
 /* ==========================================================================
    Base styles: opinionated defaults
    ========================================================================== */
-
 html {
-
 }
 
 /*
@@ -110,37 +107,8 @@ textarea {
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
-/*
- * The Typekit service used to deliver this font or fonts for use on websites
- * is provided by Adobe and is subject to these Terms of Use
- * http://www.adobe.com/products/eulas/tou_typekit. For font license
- * information, see the list below.
- *
- * niveau-grotesk-small-caps:
- *   - http://typekit.com/eulas/00000000000000003b9ad45a
- *   - http://typekit.com/eulas/00000000000000003b9ad457
- *   - http://typekit.com/eulas/00000000000000003b9ad44e
- *
- * © 2009-2020 Adobe Systems Incorporated. All Rights Reserved.
- */
-/*{"last_published":"2020-04-21 17:21:20 UTC"}*/
-
-@import url("https://p.typekit.net/p.css?s=1&k=nkr3mcy&ht=tk&f=27091.27092.27093&a=4357684&app=typekit&e=css");
-@font-face {
-font-family:"niveau-grotesk-small-caps";
-src:url("https://use.typekit.net/af/809ec9/00000000000000003b9ad45a/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/809ec9/00000000000000003b9ad45a/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/809ec9/00000000000000003b9ad45a/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
-font-display:auto;font-style:normal;font-weight:400;
-}
-@font-face {
-font-family:"niveau-grotesk-small-caps";
-src:url("https://use.typekit.net/af/82424f/00000000000000003b9ad457/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff2"),url("https://use.typekit.net/af/82424f/00000000000000003b9ad457/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff"),url("https://use.typekit.net/af/82424f/00000000000000003b9ad457/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("opentype");
-font-display:auto;font-style:normal;font-weight:500;
-}
-@font-face {
-font-family:"niveau-grotesk-small-caps";
-src:url("https://use.typekit.net/af/8a6f64/00000000000000003b9ad44e/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/8a6f64/00000000000000003b9ad44e/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/8a6f64/00000000000000003b9ad44e/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
-font-display:auto;font-style:normal;font-weight:700;
-}
+//Font
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@700&display=swap');
 
 html,
 body {
@@ -152,15 +120,15 @@ body {
   text-align: left;
 }
 
-#content {
+main {
   margin: auto;
   padding: 1em;
   max-width: 900px;
-  min-height: 90%;
+  min-height: 80%;
 }
 
 h1 {
-  font-family: "niveau-grotesk-small-caps", Georgia, Times, "Times New Roman", serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 42px;
   font-style: normal;
   font-variant: normal;
@@ -169,7 +137,7 @@ h1 {
 }
 
 h2 {
-  font-family: "niveau-grotesk-small-caps", Georgia, Times, "Times New Roman", serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 33px;
   font-style: normal;
   font-variant: normal;
@@ -178,7 +146,7 @@ h2 {
 }
 
 h3 {
-  font-family: "niveau-grotesk-small-caps", Georgia, Times, "Times New Roman", serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 26px;
   font-style: normal;
   font-variant: normal;
@@ -187,7 +155,7 @@ h3 {
 }
 
 h4 {
-  font-family: "niveau-grotesk-small-caps", Georgia, Times, "Times New Roman", serif;
+  font-family: "Montserrat", sans-serif;
   font-size: 20px;
   font-style: normal;
   font-variant: normal;
@@ -227,6 +195,9 @@ a {
 }
 
 header {
+  margin: auto;
+  padding: 1em;
+  max-width: 900px;
   height: 50px;
   padding-bottom: 0.1rem;
 }
@@ -345,14 +316,12 @@ footer {
   background: $lilac;
   color: $ghost-white;
   min-width: 100%;
-  min-height: 7.6%;
+  min-height: 15%;
 }
 
 /* ==========================================================================
    Helper classes
    ========================================================================== */
-
-
 /*
  * Hide visually and from screen readers
  */
@@ -384,7 +353,6 @@ footer {
   /* 1 */
 }
 
-
 /*
 * Extends the .sr-only class to allow the element
 * to be focusable when navigated to via the keyboard:
@@ -411,7 +379,6 @@ footer {
   visibility: hidden;
 }
 
-
 /*
 * Clearfix: contain floats
 *
@@ -436,11 +403,9 @@ footer {
   clear: both;
 }
 
-
 /* ==========================================================================
-   EXAMPLE Media Queries for Responsive Design.
-   These examples override the primary ('mobile first') styles.
-   Modify as content requires.
+   Media Queries for Responsive Design.
+   Default styles are for mobile-first.
    ========================================================================== */
 
 /* Style adjustments for viewports that meet the condition */
@@ -491,6 +456,10 @@ footer {
     text-decoration: none;
     background: $lilac;
     color: $ghost-white;
+  }
+
+  .join{
+    background: $old-gold;
   }
 }
 

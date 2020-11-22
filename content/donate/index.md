@@ -1,9 +1,7 @@
 ---
 title: "Donating to FoDT"
 date: "2020-04-01"
-menu:
-  main:
-    name: 'Donate'
+menu: ["main", "footer"]
 ---
 
 ## Scholarships

@@ -1,0 +1,4 @@
+<script type="text/javascript" src="https://unpkg.com/jquery@3.5.0/dist/jquery.min.js" integrity="sha384-LVoNJ6yst/aLxKvxwp6s2GAabqPczfWh6xzm38S/YtjUyZ+3aTKOnD/OJVGYLZDl" crossorigin="anonymous"></script>
+
+{{ $js := resources.Get "js/lilac/theme.js" |  resources.Fingerprint "sha512" }}
+<script type="text/javascript" src="{{ $js.Permalink }}" integrity="{{ $js.Data.Integrity }}"></script>

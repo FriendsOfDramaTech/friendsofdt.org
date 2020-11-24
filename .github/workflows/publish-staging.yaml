@@ -27,6 +27,5 @@ jobs:
             role-to-assume: ${{ secrets.STAGING_DEPLOYMENT_ROLE_ARN }}
             role-duration-seconds: 1200
             role-session-name: StagingHugoPublisherWorkflow
-
         - name: Deploy hugo
-          run: hugo -e staging deploy
+          run: hugo deploy -e staging --verbose

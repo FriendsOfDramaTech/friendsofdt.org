@@ -1,9 +1,13 @@
 ---
-title: "Donating to FoDT"
-date: "2020-04-01"
-menu: ["main", "footer"]
----
+title: Donating to FoDT
+date: 2020-04-01
+menu:
+  footer:
+    weight: 2
+  main:
+    weight: 2
 
+---
 ## Scholarships
 
 DramaTech's scholarship accounts are administered by the Georgia Tech Foundation. The Foundation is a 501(c)(3) nonprofit corporation, and contributions are tax-deductible.

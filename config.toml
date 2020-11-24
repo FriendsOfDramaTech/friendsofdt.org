@@ -1,11 +1,8 @@
 baseURL = "https://friendsofdt.org/"
-languageCode = "en-us"
-title = "Friends of DramaTech"
-theme = "lilac-revenge"
 enableRobotsTXT = true
-
-[params]
-
-
+languageCode = "en-us"
+theme = "lilac-revenge"
+title = "Friends of DramaTech"
 [markup.goldmark.renderer]
 unsafe = true
+[params]

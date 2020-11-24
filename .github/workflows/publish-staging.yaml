@@ -17,7 +17,7 @@ jobs:
             hugo-version: 'latest'
             extended: true
         - name: Build
-          run: hugo -e staging
+          run: hugo -e staging --verbose
         - name: Configure AWS Credentials
           uses: aws-actions/configure-aws-credentials@v1
           with:

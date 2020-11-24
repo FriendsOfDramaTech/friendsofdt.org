@@ -1,0 +1,31 @@
+name: Publish Staging
+on:
+  push:
+    branches:
+      - staging
+jobs:
+  publish-hugo:
+    runs-on: ubuntu-latest
+    steps:
+        - uses: actions/checkout@v2
+          with:
+            submodules: true 
+            fetch-depth: 0
+        - name: Setup Hugo
+          uses: peaceiris/actions-hugo@v2
+          with:
+            hugo-version: 'latest'
+            extended: true
+        - name: Build
+          run: hugo -e staging
+        - name: Configure AWS Credentials
+          uses: aws-actions/configure-aws-credentials@v1
+          with:
+            aws-access-key-id: ${{ secrets.STAGING_DEPLOYMENT_SECRET_KEY_ID }}
+            aws-secret-access-key: ${{ secrets.STAGING_DEPLOYMENT_SECRET_ACCESS_KEY }}
+            role-to-assume: ${{ secrets.STAGING_DEPLOYMENT_ROLE_ARN }}
+            role-duration-seconds: 1200
+            role-session-name: StagingHugoPublisherWorkflow
+            aws-region: us-east-1
+        - name: Deploy hugo
+          run: hugo -e staging deploy

@@ -14,10 +14,11 @@ jobs:
         - name: Setup Hugo
           uses: peaceiris/actions-hugo@v2
           with:
-            hugo-version: 'latest'
+            hugo-version: '0.78.2'
             extended: true
         - name: Build
-          run: hugo -e staging --verbose
+          run: | 
+            hugo -e staging --verbose
         - name: Configure AWS Credentials
           uses: aws-actions/configure-aws-credentials@v1
           with:
@@ -28,4 +29,5 @@ jobs:
             role-duration-seconds: 1200
             role-session-name: StagingHugoPublisherWorkflow
         - name: Deploy hugo
-          run: hugo deploy -e staging --verbose
+          run: |
+            hugo deploy -e staging --verbose

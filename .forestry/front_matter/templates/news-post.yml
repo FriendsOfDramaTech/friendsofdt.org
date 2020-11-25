@@ -11,3 +11,5 @@ fields:
 - type: datetime
   name: publishdate
   label: publishdate
+pages:
+- content/news/november-update.md

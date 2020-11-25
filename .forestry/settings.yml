@@ -9,10 +9,11 @@ sections:
   label: Pages
   create: all
   match: "**/*"
+  exclude: news/**/*
 - type: directory
   path: content/news
   label: News
-  create: all
+  create: documents
   match: "**/*"
   templates:
   - news-post

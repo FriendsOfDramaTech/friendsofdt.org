@@ -1,6 +1,5 @@
 +++
 date = 2020-11-24T08:00:00Z
-draft = true
 publishdate = 2020-11-24T08:00:00Z
 title = "November Update"
 

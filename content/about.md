@@ -6,6 +6,8 @@ menu:
     weight: 1
   main:
     weight: 1
+    name: About
+    pre: fas fa-home
 
 ---
 Some content goes here!

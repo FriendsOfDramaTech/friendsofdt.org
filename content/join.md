@@ -6,7 +6,8 @@ menu:
     weight: 3
   main:
     weight: 3
-
+    name: Join
+    pre: fas fa-check
 ---
 While we're working on setting up our membership process the only requirements to join FoDT is to subscribe to our mailing list. You can unsubscribe at any time using the links in the e-mails you'll recieve.
 

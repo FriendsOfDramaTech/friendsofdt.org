@@ -5,8 +5,9 @@ menu:
   footer:
     weight: 2
   main:
+    name: Donate
     weight: 2
-
+    pre: fas fa-gifts
 ---
 ## Scholarships
 

@@ -1,0 +1,10 @@
+{{ range first 3 (where (where site.Pages "Section" "news") ".IsPage" true) }}
+    <article>
+      <h3>{{ .Title }}</h3>
+      <p>{{ .Summary }}</p>
+      {{ if .Truncated }}
+        <!-- This <div> includes a read more link, but only if the summary is truncated... -->
+        <p><a href="{{ .RelPermalink }}">Read More…</a></p>
+      {{ end }}
+    </article>
+{{ end }}

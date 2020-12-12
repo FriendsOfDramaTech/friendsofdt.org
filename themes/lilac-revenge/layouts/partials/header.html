@@ -1,0 +1,11 @@
+<header>
+    {{ if not .IsHome }}
+        <div id="logo"><a href="{{ "/" | relURL }}">Friends Of DramaTech Home Page</a></div>
+    {{end}}
+    <i class="menu-toggle-btn fas fa-bars"></i>
+    <nav class="navigation-menu">
+        {{ range .Site.Menus.main }}
+            <a class="{{ .Name }}" href="{{ .URL }}"><i class="{{ .Pre }}" aria-hidden="true"></i>{{ .Name }}</a>
+        {{ end }}
+    </nav>
+</header>

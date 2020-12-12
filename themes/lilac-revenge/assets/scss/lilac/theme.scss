@@ -18,8 +18,8 @@ $old-gold: #CFB53B;
 $black: #000000;
 
 // Misc Variables
-$nav-size-medium: 760px;
-$nav-size-large: 860px;
+$nav-size-medium: 800px;
+$nav-size-large: 900px;
 
 /* ==========================================================================
    Base styles: opinionated defaults
@@ -205,7 +205,7 @@ header {
 #logo {
   text-decoration:none;
   border: 0;
-  width : 209px;
+  width : 240px;
   height : 50px;
   margin : 0;
   padding : 0;
@@ -415,7 +415,7 @@ footer {
   }
 
   #logo {
-    width : 334px;
+    width : 384px;
     height : 80px;
   }
 
@@ -469,7 +469,7 @@ footer {
   }
 
   #logo {
-    width : 417px;
+    width : 480px;
     height : 100px;
   }
 }

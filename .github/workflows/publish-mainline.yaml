@@ -1,8 +1,8 @@
-name: Publish Staging
+name: Publish Mainline
 on:
   push:
     branches:
-      - staging
+      - mainline
 jobs:
   publish-hugo:
     runs-on: ubuntu-latest

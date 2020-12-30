@@ -2,12 +2,13 @@
 title: About FoDT
 date: 2020-11-17
 menu:
+  main:
+    name: About
+    weight: 1
+    pre: fas fa-home
   footer:
     weight: 1
-  main:
-    weight: 1
-    name: About
-    pre: fas fa-home
+draft: true
 
 ---
 Some content goes here!

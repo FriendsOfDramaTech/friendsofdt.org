@@ -33,5 +33,3 @@ Donations can be made on-line via the <a href="https://development.gatech.edu" t
 If you run into any problems or have any questions about this process, please reach out to [the treasurer](#contact:treasurer).
 
 For questions about the Scholarship Campaign our [FAQ](/donate/campaign/).
-
-a

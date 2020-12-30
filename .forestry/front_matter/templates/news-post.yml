@@ -12,4 +12,5 @@ fields:
   name: publishdate
   label: publishdate
 pages:
+- content/news/december-update.md
 - content/news/november-update.md

@@ -2,13 +2,14 @@
 title: Join FoDT
 date: 2020-11-17
 menu:
+  main:
+    name: Join
+    weight: 3
+    pre: fas fa-check
   footer:
     weight: 3
-  main:
-    weight: 3
-    name: Join
-    pre: fas fa-check
----
-While we're working on setting up our membership process the only requirements to join FoDT is to subscribe to our mailing list. You can unsubscribe at any time using the links in the e-mails you'll recieve.
 
-{{< mailchimp >}}
+---
+Joining Friends of DramaTech is simple, just fill out the form below.
+
+<iframe src="[https://docs.google.com/forms/d/e/1FAIpQLSdp9iPQTY6nUFpGQVT-5IuF_gQhOUZpboF8bb_hxMET1hVZCg/viewform?embedded=true](https://docs.google.com/forms/d/e/1FAIpQLSdp9iPQTY6nUFpGQVT-5IuF_gQhOUZpboF8bb_hxMET1hVZCg/viewform?embedded=true "https://docs.google.com/forms/d/e/1FAIpQLSdp9iPQTY6nUFpGQVT-5IuF_gQhOUZpboF8bb_hxMET1hVZCg/viewform?embedded=true")" width="640" height="1543" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

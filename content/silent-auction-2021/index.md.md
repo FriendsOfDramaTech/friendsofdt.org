@@ -2,7 +2,7 @@
 date = 2021-02-09T08:00:00Z
 draft = true
 publishdate = 2021-02-09T08:00:00Z
-title = "index.md"
+title = "Silent Auction"
 
 +++
 Friends of DramaTech will host a virtual auction Friday, April 16 to Sunday, April 18 benefiting the scholarships FoDT awards to DramaTech students. A full agenda of events planned for the weekend will be shared once the agenda is finalized.

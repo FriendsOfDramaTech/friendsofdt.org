@@ -1,6 +1,5 @@
 +++
 date = 2021-02-09T08:00:00Z
-draft = true
 publishdate = 2021-02-09T08:00:00Z
 title = "Silent Auction"
 

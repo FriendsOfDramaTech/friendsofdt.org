@@ -6,6 +6,20 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="manifest" href="site.webmanifest">
 <link rel="apple-touch-icon" href="icon.png">
+{{ range .AlternativeOutputFormats -}}
+  {{ printf `<link rel="%s" type="%s" href="%s" title="%s — %s" />` .Rel .MediaType.Type .Permalink $.Title $.Site.Title | safeHTML }}
+{{ end -}}
+
+{{- /*
+  Always point to the news feed regardless of what page we're on since it's
+  probably the only one most readers will want to subscribe to anyways.
+*/ -}}
+{{- with .GetPage "/news" }}
+  {{- $newsPage := . }}
+  {{- with .OutputFormats.Get "rss" -}}
+    {{ printf `<link rel="feed" type="%s" href="%s" title="%s — %s" />`  .MediaType.Type .Permalink $newsPage.Title $.Site.Title | safeHTML }}
+  {{- end }}
+{{- end }}
 <meta name="theme-color" content="#fafafa">
 
 {{ hugo.Generator }}

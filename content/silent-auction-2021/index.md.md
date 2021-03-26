@@ -4,6 +4,8 @@ publishdate = 2021-02-09T08:00:00Z
 title = "Silent Auction"
 
 +++
+The Silent Auction agenda has been finalized! Please see the order of events below:
+
 ### Agenda
 
 * Friday, April 16 @ 8PM EST: Friends of DramaTech & DramaTech Members Happy Hour

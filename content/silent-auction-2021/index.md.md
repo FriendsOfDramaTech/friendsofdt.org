@@ -4,7 +4,7 @@ publishdate = 2021-02-09T08:00:00Z
 title = "Silent Auction"
 
 +++
-![](/uploads/8f923653-55df-444d-9b4f-6828e168eb53.jpeg)FoDT is planning a virtual silent auction from Friday, April 16 to Sunday, April 18, 2021 to raise money for the scholarship fund for current DramaTech members enrolled at Georgia Tech. There will be a few free fun virtual events in coordination with the auction, and we hope you can join us!
+![Silent auction header image](/uploads/8f923653-55df-444d-9b4f-6828e168eb53.jpeg "Silent Auction Header")FoDT is planning a virtual silent auction from Friday, April 16 to Sunday, April 18, 2021 to raise money for the scholarship fund for current DramaTech members enrolled at Georgia Tech. There will be a few free fun virtual events in coordination with the auction, and we hope you can join us!
 
 ### Agenda
 

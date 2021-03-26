@@ -4,9 +4,11 @@ publishdate = 2021-02-09T08:00:00Z
 title = "Silent Auction"
 
 +++
-The Silent Auction agenda has been finalized! Please see the order of events below:
+![](/uploads/8f923653-55df-444d-9b4f-6828e168eb53.jpeg)FoDT is planning a virtual silent auction from Friday, April 16 to Sunday, April 18, 2021 to raise money for the scholarship fund for current DramaTech members enrolled at Georgia Tech. There will be a few free fun virtual events in coordination with the auction, and we hope you can join us!
 
 ### Agenda
+
+The Silent Auction agenda has been finalized! Please see the order of events below:
 
 * Friday, April 16 @ 8PM EST: Friends of DramaTech & DramaTech Members Happy Hour
 * Saturday, April 17 @ 8PM EST: Stream of DramaTech's 2009 Production of _Jekyll and Hyde_

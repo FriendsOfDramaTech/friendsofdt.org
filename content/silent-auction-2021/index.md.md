@@ -4,7 +4,9 @@ publishdate = 2021-02-09T08:00:00Z
 title = "Silent Auction"
 
 +++
-![Silent auction header image](/uploads/8f923653-55df-444d-9b4f-6828e168eb53.jpeg "Silent Auction Header")FoDT is planning a virtual silent auction to raise money for the scholarship fund for current DramaTech members. There will be a few free fun virtual events in coordination with the auction, and we hope you can join us!
+![Silent auction header image](/uploads/8f923653-55df-444d-9b4f-6828e168eb53.jpeg "Silent Auction Header")
+
+FoDT is planning a virtual silent auction to raise money for the scholarship fund for current DramaTech members. There will be a few free fun virtual events in coordination with the auction, and we hope you can join us!
 
 ### Agenda
 
@@ -20,4 +22,6 @@ Please RSVP here if you are planning on attending the silent auction: [https://f
 
 ### Auction
 
-The auction will be open from Friday, April 16 at 8PM to Sunday, April 18 at 2PM. The auction link will be public, however you will only receive the links to the events above if you submit a Yes RSVP. Please reach out to the Silent Auction Committee at [silentauction@friendsofdt.org](mailto:silentauction@friendsofdt.org) with any questions! We hope to see you in April!
+The auction will be open from Friday, April 16 at 8PM to Sunday, April 18 at 2PM.
+
+The auction is now available at [http://friendsdramatech.betterworld.org/auctions/friends-dramatech-silent-auction](http://friendsdramatech.betterworld.org/auctions/friends-dramatech-silent-auction "http://friendsdramatech.betterworld.org/auctions/friends-dramatech-silent-auction").

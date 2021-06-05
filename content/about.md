@@ -21,16 +21,6 @@ As depicted in our logo, FoDT stands proudly with DramaTech at the intersection 
 
 The Board of Directors is the governing body of Friends of DramaTech, elected to two-year terms on a rotating basis. Officers are selected by the Board to serve one-year terms. The current Board of Directors is:
 
-Thomas Copeland, _Treasurer_
-
-Michael Lee
-
-Morgan Milton, PhD, _Secretary_
-
-Graham P Sweeney, _President_
-
-Jennifer Zhang
-
 <table style="width:50%" cellpadding="10px" font="Roboto">  
   <tr>  
     <td style="width:25%">President</td>  

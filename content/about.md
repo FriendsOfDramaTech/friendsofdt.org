@@ -36,6 +36,19 @@ Jennifer Zhang
     <td style="width:25%">President</td>  
     <td style="width:75%">Graham P. Sweeney</td>  
   </tr>  
+  <tr>  
+    <td>Treasurer</td>  
+    <td>Thomas Copeland</td>  
+  </tr>  
+  <tr>  
+    <td>Secretary</td>  
+    <td>Morgan Milton, PhD</td>  
+  </tr>  
+  <tr>  
+    <td>Directors</td>  
+    <td>Michael Lee  
+    </br>Jennifer Zhang</td>  
+  </tr>  
 </table>
 
 ## History

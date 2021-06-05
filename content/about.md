@@ -32,7 +32,7 @@ The Board of Directors is the governing body of Friends of DramaTech, elected to
   </tr>  
   <tr>  
     <td>Secretary</td>  
-    <td>Morgan Milton, PhD</td>  
+    <td>Morgan E. Milton, PhD</td>  
   </tr>  
   <tr>  
     <td>Directors</td>  

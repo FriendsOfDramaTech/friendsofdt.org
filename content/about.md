@@ -21,6 +21,20 @@ As depicted in our logo, FoDT stands proudly with DramaTech at the intersection 
 
 The Board of Directors is the governing body of Friends of DramaTech, elected to two-year terms on a rotating basis. Officers are selected by the Board to serve one-year terms. The current Board of Directors is:
 
+Thomas Copeland, _Treasurer_
+
+Michael Lee
+
+Morgan Milton, PhD, _Secretary_
+
+Graham P Sweeney, _President_
+
+Jennifer Zhang
+
 ## History
 
-We have some. It's probably not interesting. This is a test edit.
+Friends of DramaTech has long been a loose association of alumni and supports of DramaTech Theatre. In late 2019, the alumni decided to formalize the organization and held the first Board elections. The Articles of Incorporation and the Bylaws were ratified in February 2021, and a Certificate of Incorporation was granted by the Secretary of State of Georgia in April 2021. 
+
+## Resources
+
+Articles of Incorporation

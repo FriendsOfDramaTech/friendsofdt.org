@@ -8,6 +8,7 @@ menu:
     pre: fas fa-home
   footer:
     weight: 1
+draft: true
 
 ---
 Friends of DramaTech (FoDT) is a nonprofit organization dedicated to serving and providing social and networking opportunities to alumni and supporters of DramaTech Theatre, the student-run theatre at the Georgia Institute of Technology. FoDT acts to support and continue the mission of DramaTech and the theatre’s long, proud, and often quirky history. For many of us alumni, our participation in DramaTech was invaluable to our time at Georgia Tech. To this day, DramaTech provides a space for students to build a community and achieve goals outside of the classroom. FoDT is a way for that community to continue well past our graduation.
@@ -30,7 +31,12 @@ Graham P Sweeney, _President_
 
 Jennifer Zhang
 
-<table><tr><td>President</td><td>Graham Sweeney</td></tr></table>
+<table style="width:50%">  
+  <tr>  
+    <td style="width:25%">President</td>  
+    <td style="width:75%">Graham P. Sweeney</td>  
+  </tr>  
+</table>
 
 ## History
 

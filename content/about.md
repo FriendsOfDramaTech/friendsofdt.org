@@ -33,8 +33,18 @@ Jennifer Zhang
 
 ## History
 
-Friends of DramaTech has long been a loose association of alumni and supports of DramaTech Theatre. In late 2019, the alumni decided to formalize the organization and held the first Board elections. The Articles of Incorporation and the Bylaws were ratified in February 2021, and a Certificate of Incorporation was granted by the Secretary of State of Georgia in April 2021. 
+Friends of DramaTech has long been a loose association of alumni and supports of DramaTech Theatre. In late 2019, the alumni decided to formalize the organization and held the first Board elections. The Articles of Incorporation and the Bylaws were ratified in February 2021, and a Certificate of Incorporation was granted by the Secretary of State of Georgia in April 2021.
 
 ## Resources
 
-Articles of Incorporation
+[Articles of Incorporation](/uploads/fodt-articles-of-incorporation.pdf "Articles of Incorporation")
+
+[Certificate of Incorporation](/uploads/fodt-certificate-of-incorporation.pdf "Certificate of Incorporation")
+
+[Bylaws](/uploads/fodt-bylaws.pdf "Bylaws")
+
+[Google Drive Folder](https://drive.google.com/drive/folders/1K3zfOA0Z80ikqC96yf7rvIgzBmv88Jmj?usp=sharing "Google Drive Folder")
+
+[Google Calendar](https://calendar.google.com/calendar/u/0?cid=b2p2azZqdmlkZGFnbTN2cnQxc2Eza2c3MDhAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ "Google Calendar")
+
+[DramaTech Theatre](https://dramatech.org/ "DramaTech Theatre")

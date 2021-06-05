@@ -30,6 +30,8 @@ Graham P Sweeney, _President_
 
 Jennifer Zhang
 
+<table><tr><td>President</td><td>Graham Sweeney</td></tr></table>
+
 ## History
 
 Friends of DramaTech has long been a loose association of alumni and supports of DramaTech Theatre. In late 2019, the alumni decided to formalize the organization and held the first Board elections. The Articles of Incorporation and the Bylaws were ratified in February 2021, and a Certificate of Incorporation was granted by the Secretary of State of Georgia in April 2021.

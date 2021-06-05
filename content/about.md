@@ -31,7 +31,7 @@ Graham P Sweeney, _President_
 
 Jennifer Zhang
 
-<table style="width:50%" cellpadding="10px">  
+<table style="width:50%" cellpadding="10px" font="Roboto">  
   <tr>  
     <td style="width:25%">President</td>  
     <td style="width:75%">Graham P. Sweeney</td>  

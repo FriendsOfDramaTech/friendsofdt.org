@@ -16,7 +16,7 @@ DramaTech's scholarship accounts are administered by the Georgia Tech Foundation
 
 ### Donating via The Georgia Tech Foundation
 
-Donations can be made on-line via the <a href="[https://development.gatech.edu](https://development.gatech.edu "https://development.gatech.edu")" target="blank">Georgia Tech Office of Development's website</a>.
+Donations can be made on-line via the [Georgia Tech Office of Development's website](https://development.gatech.edu).
 
 1. Click on the **Give Now** link at the top.
 2. Enter the amount of your gift in the **Donation amount** box.

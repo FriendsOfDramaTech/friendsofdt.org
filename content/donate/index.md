@@ -14,13 +14,9 @@ menu:
 
 DramaTech's scholarship accounts are administered by the Georgia Tech Foundation. The Foundation is a 501(c)(3) nonprofit corporation, and contributions are tax-deductible.
 
-**Thanks to a generous alumni donation ALL scholarship donations are being matched dollar-for-dollar!**
-
-[See here for more information.](/donate/campaign/)
-
 ### Donating via The Georgia Tech Foundation
 
-Donations can be made on-line via the <a href="https://development.gatech.edu" target="blank">Georgia Tech Office of Development's website</a>.
+Donations can be made on-line via the <a href="[https://development.gatech.edu](https://development.gatech.edu "https://development.gatech.edu")" target="blank">Georgia Tech Office of Development's website</a>.
 
 1. Click on the **Give Now** link at the top.
 2. Enter the amount of your gift in the **Donation amount** box.
@@ -31,5 +27,3 @@ Donations can be made on-line via the <a href="https://development.gatech.edu" t
 ## Questions?
 
 If you run into any problems or have any questions about this process, please reach out to [the treasurer](#contact:treasurer).
-
-For questions about the Scholarship Campaign our [FAQ](/donate/campaign/).

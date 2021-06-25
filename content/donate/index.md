@@ -16,13 +16,12 @@ DramaTech's scholarship accounts are administered by the Georgia Tech Foundation
 
 ### Donating via The Georgia Tech Foundation
 
-Donations can be made on-line via the [Georgia Tech Office of Development's website](https://development.gatech.edu).
+Donations can be made on-line via the <a href="https://mygeorgiatech.gatech.edu/giving/make-a-gift" target="blank">Georgia Tech Office of Development's website</a>.
 
-1. Click on the **Give Now** link at the top.
-2. Enter the amount of your gift in the **Donation amount** box.
-3. Enter the amount _again_ in the **Other designation** box.
-4. In the **If other please specify** box, enter `Abbott Endowment`.
-5. Once you receive a confirmation email from Georgia Tech, please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLScr0mvyx5jr2oh5-p_vj0SMK_27lu_ckTsIrOooyd2TiHghZg/viewform) so that we can keep track of our progress.
+1. Enter the amount of your gift in the **Your gift** box.
+2. Enter the amount _again_ in the **Other amount** box.
+3. In the **Other Designation** box, enter `Abbott Endowment`.
+4. Once you receive a confirmation email from Georgia Tech, please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLScr0mvyx5jr2oh5-p_vj0SMK_27lu_ckTsIrOooyd2TiHghZg/viewform) so that we can keep track of our progress.
 
 ## Questions?
 

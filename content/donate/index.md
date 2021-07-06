@@ -20,7 +20,7 @@ Donations can be made on-line via the <a href="https://mygeorgiatech.gatech.edu/
 
 1. Enter the amount of your gift in the **Your gift** box.
 2. Enter the amount _again_ in the **Other amount** box.
-3. In the **Other Designation** box, enter `Abbott Endowment`.
+3. In the **Other Designation** box, enter `Greg Abbott DramaTech Scholarship`.
 4. Once you receive a confirmation email from Georgia Tech, please complete [this form](https://docs.google.com/forms/d/e/1FAIpQLScr0mvyx5jr2oh5-p_vj0SMK_27lu_ckTsIrOooyd2TiHghZg/viewform) so that we can keep track of our progress.
 
 ## Questions?

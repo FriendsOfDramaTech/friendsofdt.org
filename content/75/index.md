@@ -3,11 +3,7 @@ title: 75th Anniversary Alumni Weekend
 date: 2023-03-12
 menu:
   main:
-<<<<<<< Updated upstream
-    name: 75th Anniversary 
-=======
-    name: 75th  
->>>>>>> Stashed changes
+    name: 75th
     weight: 4
     pre: fas fa-calendar
   footer:
@@ -15,8 +11,6 @@ menu:
 ---
 Friends of DramaTech will host an alumni weekend April 21-23, 2023, celebrating DramaTech's 75th Anniversary. Join us in Atlanta for a weekend of events where you will interact with old friends, learn what's going on at the theater, and see DramaTech's spring musical, RENT.
 
-<<<<<<< Updated upstream
-=======
 ## RSVP and Tickets
 Your 75th Anniversary Alumni Weekend ticket is $80 and includes Saturday lunch, a ticket to see RENT at DramaTech on Saturday night, and Sunday brunch. You do not need to buy a separate ticket to see the show.
 
@@ -25,7 +19,6 @@ Registration for the alumni weekend will close on April 7th.
 <br/>
 <a class="large-button" href="https://friendsofdt.square.site/" target="_new">RSVP Here</a>
 
->>>>>>> Stashed changes
 ## Schedule
 ### Friday, April 21 2023
 #### 7:00 pm - Friday Night Cocktail Reception
@@ -56,14 +49,6 @@ The most convenient hotel to Georgia Tech is the [Hampton Inn on North Ave](http
 
 For getting around, we recommend Lyft or Uber, or perhaps renting a car. There is paid parking at the Student Center ([Visitor Area 2 and 3](https://www.pts.gatech.edu/parking/visitor-parking/)). If you’re using an app or need directions, try Georgia Tech Student Center or 351 Ferst Drive NW.
 
-<<<<<<< Updated upstream
-## RSVP and Tickets
-Your 75th Anniversary Alumni Weekend ticket ist $80 and includes Saturday lunch, a ticket to see RENT at DramaTech on Saturday night, and Sunday brunch. You do not need to buy a separate ticket to see the show.
-
-Reservations for alumni weekend will be available shortly weekend will close on April 7th. 
-
-=======
->>>>>>> Stashed changes
 ## Share and Enjoy!
 If you know of any DramaTech alumni who might not be on our email list, please feel free to invite them. We'd love to have as many people who were involved with the theater present. They can also get future updates about this sort of thing by email by [joining Friends of DramaTech](https://friendsofdt.org/join).
 

@@ -1,5 +1,5 @@
 ---
-title: Donating to DramaTech
+title: Donating
 date: 2023-01-25
 menu:
   main:
@@ -20,7 +20,7 @@ If you want to contribute to DramaTech scholarships, you're in the right place; 
 
 DramaTech's scholarship accounts are administered by the Georgia Tech Foundation. The Foundation is a 501(c)(3) nonprofit corporation, and contributions are tax-deductible.
 
-### Donating via The Georgia Tech Foundation
+### Donate to DramaTech Through the Georgia Tech Foundation
 
 Donations can be made on-line via the <a href="https://mygeorgiatech.gatech.edu/giving/special" target="blank">Georgia Tech Office of Development's website</a>.
 

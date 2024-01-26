@@ -10,9 +10,9 @@ menu:
     weight: 2
 
 ---
-## FoDT Capitol Campaign
+## FoDT Capital Campaign
 
-Are you looking for infromation about the 2024 Friends of DramaTech Capitol Campaign? Click <a href="https://docs.google.com/document/d/1oURLckA11fg3ip1ED88XNMj9RJqn_Xguhms4eaaztsk/" target="blank">here</a> to find out more about the campaign, or <a href="https://friendsofdt.square.site/product/fodt-2024-capital-campaign/3?cs=true&cst=custom" target="blank">here</a> to contribute to support Friends of DramaTech.
+Are you looking for infromation about the 2024 Friends of DramaTech Capital Campaign? Click <a href="https://docs.google.com/document/d/1oURLckA11fg3ip1ED88XNMj9RJqn_Xguhms4eaaztsk/" target="blank">here</a> to find out more about the campaign, or <a href="https://friendsofdt.square.site/product/fodt-2024-capital-campaign/3?cs=true&cst=custom" target="blank">here</a> to contribute to support Friends of DramaTech.
 
 If you want to contribute to DramaTech scholarships, you're in the right place; keep reading.
 

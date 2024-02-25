@@ -29,6 +29,11 @@ jobs:
             extended: true
         - name: Install Node
           uses: actions/setup-node@v4
+        - name: Cache Deps
+          uses: actions/cache@v4
+          with:
+             key: ${{ runner.os }}-node-modules-${{ hashFiles('package-lock.json') }}
+             path: node_modules
         - name: Install Deps
           run: npm ci
         - name: Build Tina

@@ -27,7 +27,11 @@ jobs:
           with:
             hugo-version: '0.79.0'
             extended: true
-        - name: Build
-          run: npx tinacms build -c 'hugo --verbose'
+        - name: Install Node
+          uses: actions/setup-node@v4
+        - name: Build Tina
+          run: npx tinacms build
+        - name: Build Hugo
+          run:  hugo --verbose
         - name: Deploy
           run: hugo deploy --verbose

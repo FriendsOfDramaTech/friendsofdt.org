@@ -37,7 +37,7 @@ jobs:
           run: npm ci
           if:  steps.install-node.outputs.cache-hit != 'true'
         - name: Build Tina
-          run: npx tinacms build
+          run: npm exec tinacms build
           env:
             NEXT_PUBLIC_TINA_CLIENT_ID: ${{ secrets.TINA_CMS_CLIENT_ID }}
             TINA_TOKEN: ${{ secrets.TINA_CMS_RO_TOKEN }}

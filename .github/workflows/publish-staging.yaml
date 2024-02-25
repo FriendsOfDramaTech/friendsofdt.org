@@ -10,7 +10,7 @@ jobs:
       HUGO_ENV: staging
     steps:
         - name: Configure AWS Credentials
-          uses: aws-actions/configure-aws-credentials@v1
+          uses: aws-actions/configure-aws-credentials@v4
           with:
             aws-access-key-id: ${{ secrets.STAGING_DEPLOYMENT_ACCESS_KEY_ID }}
             aws-secret-access-key: ${{ secrets.STAGING_DEPLOYMENT_SECRET_ACCESS_KEY }}
@@ -18,14 +18,14 @@ jobs:
             role-to-assume: ${{ secrets.STAGING_DEPLOYMENT_ROLE_ARN }}
             role-duration-seconds: 1200
             role-session-name: StagingHugoPublisherWorkflow
-        - uses: actions/checkout@v2
+        - uses: actions/checkout@v4
           with:
             submodules: true 
             fetch-depth: 0
         - name: Setup Hugo
           uses: peaceiris/actions-hugo@v2
           with:
-            hugo-version: '0.79.0'
+            hugo-version: latest
             extended: true
         - name: Install Node
           uses: actions/setup-node@v4

@@ -35,7 +35,6 @@ jobs:
             cache-dependency-path: '**/package-lock.json'
         - name: Install Deps
           run: npm ci
-          if:  steps.install-node.outputs.cache-hit != 'true'
         - name: Build Tina
           run: npm exec tinacms build
           env:

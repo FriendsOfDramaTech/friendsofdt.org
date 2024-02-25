@@ -29,13 +29,13 @@ jobs:
             extended: true
         - name: Install Node
           uses: actions/setup-node@v4
-        - name: Cache Deps
-          uses: actions/cache@v4
+          id: install-node
           with:
-             key: ${{ runner.os }}-node-modules-${{ hashFiles('package-lock.json') }}
-             path: node_modules
+            cache: npm
+            cache-dependency-path: '**/package-lock.json'
         - name: Install Deps
           run: npm ci
+          if:  steps.install-node.outputs.cache-hit != 'true'
         - name: Build Tina
           run: npx tinacms build
           env:

@@ -33,6 +33,9 @@ jobs:
           run: npm ci
         - name: Build Tina
           run: npx tinacms build
+          env:
+            NEXT_PUBLIC_TINA_CLIENT_ID: ${{ secrets.TINA_CMS_CLIENT_ID }}
+            TINA_TOKEN: ${{ secrets.TINA_CMS_RO_TOKEN }}
         - name: Build Hugo
           run:  hugo --verbose
         - name: Deploy

@@ -19,7 +19,7 @@ As depicted in our logo, FoDT stands proudly with DramaTech at the intersection 
 
 ## The Board
 
-The Board of Directors is the governing body of Friends of DramaTech, elected to two-year terms on a rotating basis. Officers are selected by the Board to serve one-year terms.
+The Board of Directors is the governing body of Friends of DramaTech, elected to two-year terms on a rotating basis. Officers are selected yearly by the Board.
 
 ## History
 

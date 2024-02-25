@@ -29,6 +29,8 @@ jobs:
             extended: true
         - name: Install Node
           uses: actions/setup-node@v4
+        - name: Install Deps
+          run: npm ci
         - name: Build Tina
           run: npx tinacms build
         - name: Build Hugo

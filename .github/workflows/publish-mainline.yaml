@@ -6,6 +6,8 @@ on:
 jobs:
   publish-hugo:
     runs-on: ubuntu-latest
+    env:
+        HUGO_ENV: production
     steps:
         - uses: actions/checkout@v4
           with:

@@ -1,8 +1,3 @@
----
-_template: news_post
----
-
-
 +++
 date = 2020-12-22T08:00:00Z
 publishdate = 2020-12-22T08:00:00Z

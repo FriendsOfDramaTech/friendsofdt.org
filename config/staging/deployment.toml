@@ -1,4 +1,4 @@
-[[targets]]
+[targets]
 name = "aws"
 URL = "s3://www-staging.cloud.friendsofdt.org?region=us-east-1"
 cloudFrontDistributionID = "E27T7JINAX9IGN"

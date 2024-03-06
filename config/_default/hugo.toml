@@ -1,10 +1,13 @@
-baseURL = "https://friendsofdt.org/"
+baseURL = "http://localhost/"
 enableRobotsTXT = true
 languageCode = "en-us"
 theme = "lilac-revenge"
 title = "Friends of DramaTech"
+buildDrafts = true
+
 [markup.goldmark.renderer]
 unsafe = true
+
 [params]
 
 [[deployment.matchers]]

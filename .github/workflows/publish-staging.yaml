@@ -6,8 +6,6 @@ on:
 jobs:
   publish-hugo:
     runs-on: ubuntu-latest
-    env:
-      HUGO_ENVIRONMENT: staging
     steps:
         - uses: actions/checkout@v4
           with:
@@ -32,7 +30,7 @@ jobs:
             NEXT_PUBLIC_TINA_CLIENT_ID: ${{ secrets.TINA_CMS_CLIENT_ID }}
             TINA_TOKEN: ${{ secrets.TINA_CMS_RO_TOKEN }}
         - name: Build Hugo
-          run:  hugo --verbose
+          run:  hugo --environment staging --verbose
         - name: Configure AWS Credentials
           uses: aws-actions/configure-aws-credentials@v4
           with:
@@ -43,4 +41,4 @@ jobs:
             role-duration-seconds: 1200
             role-session-name: StagingHugoPublisherWorkflow
         - name: Deploy
-          run: hugo deploy --verbose
+          run: hugo deploy --environment staging --verbose

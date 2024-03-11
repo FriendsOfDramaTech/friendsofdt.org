@@ -43,13 +43,6 @@ export default defineConfig({
           exclude: "news/**/*",
         },
         fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
           ...news_postFields(),
         ],
       },
@@ -63,13 +56,6 @@ export default defineConfig({
           include: "**/*",
         },
         fields: [
-          {
-            type: "rich-text",
-            name: "body",
-            label: "Body of Document",
-            description: "This is the markdown body",
-            isBody: true,
-          },
           ...news_postFields(),
         ],
       },

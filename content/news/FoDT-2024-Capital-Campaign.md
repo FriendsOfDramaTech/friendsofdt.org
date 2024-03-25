@@ -12,6 +12,6 @@ Here is the contribution link: [Contribute](https://friendsofdt.square.site/prod
 
 If you didn't see the original campaign kick-off email, you can read the text [here](https://friendsofdt.square.site/).
 
-We also have an [FAQ](https://docs.google.com/document/d/1oURLckA11fg3ip1ED88XNMj9RJqn_Xguhms4eaaztsk/edit)) page explaining some details of the campaign.
+We also have an [FAQ](https://docs.google.com/document/d/1oURLckA11fg3ip1ED88XNMj9RJqn_Xguhms4eaaztsk/edit) page explaining some details of the campaign.
 
 Thanks again!

@@ -10,5 +10,5 @@
 
 {{ hugo.Generator }}
 
-{{ $style := resources.Get "scss/lilac/theme.scss" | resources.ToCSS (dict "outputStyle" "compressed") | resources.Fingerprint "sha512" }}
+{{ $style := resources.Get "scss/lilac/theme.scss" | css.Sass (dict "outputStyle" "compressed") | resources.Fingerprint "sha512" }}
 <link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">

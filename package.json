@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "tinacms": "^2.7.2"
+    "tinacms": "^2.7.7"
   },
   "devDependencies": {
     "@tinacms/cli": "^1.9.2",

@@ -6,7 +6,7 @@ menu:
   main:
     name: Alumni Weekend 2026
     weight: 1
-    pre: fas fa-cake-candles
+    pre: fas fa-birthday-cake
   footer:
     weight: 1
 ---

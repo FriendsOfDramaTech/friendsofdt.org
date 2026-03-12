@@ -2,6 +2,13 @@
 title: Alumni Weekend 2026
 date: 2026-03-12T07:00:00.000Z
 draft: false
+menu:
+  main:
+    name: Alumni Weekend 2026
+    weight: 1
+    pre: fas
+  footer:
+    weight: 1
 ---
 
 # Registration for Alumni Weekend is Open!
